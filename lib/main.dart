@@ -8,7 +8,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Agro',
+
+      title: 'AGRO',
       home: Container(),
     );
   }
