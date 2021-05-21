@@ -8,8 +8,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Agro',
-      home: Container(),
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text('AGRO'),
+        ),
+      ),
     );
   }
 }
