@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "857754546452",
+    "project_id": "agro-da39c",
+    "storage_bucket": "agro-da39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857754546452:android:9104bddd4aa0b584871201",
+        "android_client_info": {
+          "package_name": "io.github.boredkeyboards.agro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857754546452-0fqj2ongsfjeg456rkf1d2vcilqvk26k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.boredkeyboards.agro",
+            "certificate_hash": "2002d4c9b84b71036378cca2484d7753cb791d71"
+          }
+        },
+        {
+          "client_id": "857754546452-99g82h3p6i7vctimp5lirglr65bclnsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAkfaa4EAwbtR29QL6r7WE1yH4_mtg9e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857754546452-99g82h3p6i7vctimp5lirglr65bclnsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
